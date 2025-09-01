@@ -36,8 +36,7 @@ Some of the key features include:
 Clone this repo and install dependencies:
 
 bash
-'''
 git clone https://github.com/AtharvaDubey25/heart-disease-prediction-using-logistic-regression.git
 cd heart-disease-prediction-using-logistic-regression
 pip install -r requirements.txt
-'''
+
